@@ -26,7 +26,7 @@ The calculated value can either be positive or negative:
 The calculation behind the formula for ROc is rather simple. The previous price must be subtracted from the current price, and the difference must then be divided by the previous price. the final ratio must then be multiplied by 100 to make it a percent. The formula can be written as follows:
 
 ```math
-ROC = \dfrac {\text{previous price} - \text{current price}}{\text{previous price}} \times 100\%
+ROC = \dfrac {\text{current price} - \text{previous price}}{\text{previous price}} \times 100\%
 ```
 
 An example will illustrate how simple the calculation actually is:
@@ -34,6 +34,22 @@ An example will illustrate how simple the calculation actually is:
 **Example**
 > The current price of a stock is $50, and the price 10 periods ago was $40. Calculate the ROC over the 10 periods.
 
-To calculate the ROC over these 10 periods, you would subtract $40 from $50, resulting in a difference of $10. Dividing this difference by the previous price of $40 and multiplying by 100 gives you a ROC value of 25%. This means that the price has increased by 25% over the specified time frame.
+To calculate the ROC over these 10 periods, we would note that:
+
+- current price is $50
+- previous price is $40
+
+If we entered these values into our previous formula, we would get the following simple calculation:
+
+```math
+ROC = \dfrac {50 - 40}{40} \times 100\%
+= \dfrac {10}{40} \times 100\%
+= 0.25 \times 100\%
+= 25\%
+```
+
+
+
+you would subtract $40 from $50, resulting in a difference of $10. Dividing this difference by the previous price of $40 and multiplying by 100 gives you a ROC value of 25%. This means that the price has increased by 25% over the specified time frame.
 ```
 
