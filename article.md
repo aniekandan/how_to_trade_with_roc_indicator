@@ -110,9 +110,7 @@ Traders often combine extremes and crossovers to check if their trading decision
 
 ## Using ROC indicator in a trading strategy
 
-As seen in the previous section, interpreting the ROC indicator is valuable in helping the trader understand the current situation of the market. This understanding can help guide the strategy used by the trader in entering positions.
-
-###  Identify trends using ROC crossovers
+As seen in the previous section, interpreting the ROC indicator is valuable in helping the trader understand the current situation of the market. This understanding can help guide the strategy used by the trader in entering positions. We can identify trends by noting that:
 
 **A bullish crossover can signal a buying opportunity**: When the indicator value crosses the overbought line, it suggests that there is a potential change in momentum from bearish to bullish. A trader can view this transition as a signal to exit any short positions, and enter long ones.
 
@@ -120,7 +118,17 @@ As seen in the previous section, interpreting the ROC indicator is valuable in h
 
 As stated earlier, these signals from the ROC indicator should not be solely relied upon to make decisions. In order to make more accurate buy/sell trade decisions, traders should use any signals from the ROC indicator in conjunction with other technical analysis tools such as support and resistance levels or chart patterns to further confirm buying opportunities and improve the effectiveness of their trading decisions.
 
+### ROC divergence can signal a potential trend reversal
 
+Traders can also make trading decisions using the concept of **ROC Divergence**. An **ROC Divergence** occurs when the price of an asset and the ROC indicator move in opposite directions.
 
+For example, if the price is making **higher highs and the ROC is making lower highs**, this would indicate a **bearish bias**. Conversely, if the price is making **lower lows but the ROC is making higher low**, this indicates a **bullish bias**.
 
+A divergence between price and ROC can serve as a **warning sign of a possible trend reversal**. Traders interpret these deviations as a change in momentum and a potential sign that the current trend may be losing steam. This can prompt traders to exercise caution, consider **resizing positions**, or even **exiting positions**.
+
+## Applying Risk Management
+
+Risk management is an important part of a good trading strategy.  By implementing risk management techniques, traders can protect their capital, manage potential losses and increase overall profitability.
+
+### How can we set stop-loss orders based on ROC signals
 
