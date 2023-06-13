@@ -107,3 +107,20 @@ When the ROC crosses above the overbought threshold, it signals that very soon, 
 A bearish crossover, on the other hand, occurs when the ROC crosses below the oversold line, indicating that a potential change in momentum from bullish to bearish is imminent. This can be interpreted as a sell signal, indicating that it is time to think about going short or closing out long positions.
 
 Traders often combine extremes and crossovers to check if their trading decisions are valid. For example, if the ROC reaches an extremely positive value and forms a bullish crossover at the same time, it reinforces the bullish signal and increases confidence in potential buying opportunities. However, it is important to consider other technical indicators, market conditions and general trend analysis to avoid relying solely on ROC signals.
+
+## Using ROC indicator in a trading strategy
+
+As seen in the previous section, interpreting the ROC indicator is valuable in helping the trader understand the current situation of the market. This understanding can help guide the strategy used by the trader in entering positions.
+
+###  Identify trends using ROC crossovers
+
+**A bullish crossover can signal a buying opportunity**: When the indicator value crosses the overbought line, it suggests that there is a potential change in momentum from bearish to bullish. A trader can view this transition as a signal to exit any short positions, and enter long ones.
+
+**A bearish crossover can indicate a selling opportunity**: Conversely, when the ROC indicator crosses below the oversold line, it creates a bearish crossover. This crossover suggests that a possible change in momentum from bullish to bearish is coming. The trader can now view this as a signal to exit any long trades, and enter short ones.
+
+As stated earlier, these signals from the ROC indicator should not be solely relied upon to make decisions. In order to make more accurate buy/sell trade decisions, traders should use any signals from the ROC indicator in conjunction with other technical analysis tools such as support and resistance levels or chart patterns to further confirm buying opportunities and improve the effectiveness of their trading decisions.
+
+
+
+
+
