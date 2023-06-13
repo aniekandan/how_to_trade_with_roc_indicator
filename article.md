@@ -31,7 +31,8 @@ The calculation behind the formula for ROc is rather simple. The previous price 
 
 An example will illustrate how simple the calculation actually is:
 
-```
-suppose the current price of a stock is $50, and the price 10 periods ago was $40. To calculate the ROC over these 10 periods, you would subtract $40 from $50, resulting in a difference of $10. Dividing this difference by the previous price of $40 and multiplying by 100 gives you a ROC value of 25%. This means that the price has increased by 25% over the specified time frame.
+> The current price of a stock is $50, and the price 10 periods ago was $40. Calculate the ROC over the 10 periods.
+
+To calculate the ROC over these 10 periods, you would subtract $40 from $50, resulting in a difference of $10. Dividing this difference by the previous price of $40 and multiplying by 100 gives you a ROC value of 25%. This means that the price has increased by 25% over the specified time frame.
 ```
 
