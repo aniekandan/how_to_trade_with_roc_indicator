@@ -42,10 +42,7 @@ To calculate the ROC over these 10 periods, we would note that:
 If we entered these values into our previous formula, we would get the following simple calculation:
 
 ```math
-ROC = \dfrac {50 - 40}{40} \times 100\% \linebreak
-= \dfrac {10}{40} \times 100\%
-= 0.25 \times 100\%
-= 25\%
+ROC = \dfrac {50 - 40}{40} \times 100\% \\= \dfrac {10}{40} \times 100\%\\= 0.25 \times 100\%\\= 25\%
 ```
 
 
