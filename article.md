@@ -1,6 +1,6 @@
 # How to trade with the ROC indicator
 
-![featured article image trading UI with achart and indicator](https://raw.githubusercontent.com/aniekandan/how_to_trade_with_roc_indicator/main/ROC%20featured%20image.jpg)
+![featured article image trading UI with a chart, candlesticks and an indicator](https://raw.githubusercontent.com/aniekandan/how_to_trade_with_roc_indicator/main/ROC%20featured%20image.jpg)
 
 Technical analysis is a widely embraced approach to studying trading that assists in forecasting future price movements. It examines historical market data, such as previous price fluctuations and trading volume, to deduce potential future outcomes. Practitioners of technical analysis hold the belief that analyzing past patterns and trends can provide valuable insights into future market dynamics. 
 
@@ -16,6 +16,16 @@ The rate of change (ROC) indicator calculates the price change over a given peri
 
 ![ROC indicator in MT5](https://github.com/aniekandan/how_to_trade_with_roc_indicator/blob/main/roc_1.gif?raw=true)
 
+The calculated value can either be positive or negative:
+
+- When the ROC value is positive, it indicates that prices have increased,
+- On the other hand, a negative ROC value suggests a decrease in prices.
+
+## Formula for calculating ROC
+
+The calculation behind the formula for ROc is rather simple. The previous price must be subtracted from the current price, and the difference must then be divided by the previous price. the final ratio must then be multiplied by 100 to make it a percent. The formula can be written as follows:
+
+\dfrac{price_previous - price_current}{price_previous} \times 100
 
 
 
