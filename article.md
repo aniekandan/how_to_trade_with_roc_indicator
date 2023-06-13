@@ -70,10 +70,21 @@ ROC = \dfrac {80 - 100}{100} \times 100\%\\
 = -20\%
 ```
 
+In this example, we subtracted $100 from $80, resulting in a difference of -$20. Next we divided this negative difference by the previous price of $100, and finally multipled by 100 to give us an ROC value of -20%. 
 
+This means that the price has decreased by 20% over the specified time frame.
 
 The ROC formula allows traders to quantify the percentage change in price, providing a standardized measure of price momentum. By comparing ROC values across different time periods or assets, traders can identify relative strengths or weaknesses in price movements and make informed trading decisions based on the observed rate of change.
 
 ## Interpreting the ROC Indicator
 
-If our previous calculation had a higher previous price Understanding the underlying market dynamics requires an understanding of how to interpret both positive and negative values of the rate of change (ROC) indicator.
+In order to understand the underlying market dynamics, we need to first understand how to interpret both positive and negative values of the rate of change (ROC) indicator. The positive/negative values of the ROC tell us which direction the price is moving.
+
+When the ROC is positive, it indicates that the current price is higher than the previous price. This suggests an upward momentum in the market. A positive ROC value suggests that prices have increased during the specified period. Traders often interpret a consistently positive ROC as a bullish signal, indicating a potential buying opportunity.
+
+Conversely, when the ROC is negative, it implies that the previous price fell to the value we now have as the current price. A negative ROC value suggests that prices have decreased during the specified period. This is usually taken as a bearish signal, indicating a possible selling opportunity.
+
+In addition to understanding the direction of price movement, the size of the ROC value can also tell us how large the price movement was. When the ROC has a large positive or negative value, traders view this as a strong bullish or bearish price movement, and a more significant price momentum. Such large values can act as valuable overbought or oversold indicators, and can be used to inform the trader that there will soon be a reversal in the direction of the market. 
+
+However, it's important to consider the context of the specific market and use the ROC indicator in conjunction with other technical analysis tools to confirm signals and avoid false or misleading interpretations.
+
