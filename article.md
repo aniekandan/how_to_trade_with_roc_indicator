@@ -32,7 +32,7 @@ ROC = \dfrac {\text{current price} - \text{previous price}}{\text{previous price
 An example will illustrate how simple the calculation actually is:
 
 **Example**
-> The current price of a stock is $50, and the price 10 periods ago was $40. Calculate the ROC over the 10 periods.
+> The current price of a stock is $50, and the price 10 seconds ago was $40. Calculate the ROC over the 10 periods.
 
 To calculate the ROC over these 10 periods, we would note that:
 
@@ -50,5 +50,30 @@ ROC = \dfrac {50 - 40}{40} \times 100\%\\
 
 We first subtracted $40 from $50, resulting in a difference of $10. Then, we divided this difference by the previous price of $40 and multiplied by 100 to give an ROC value of 25%. 
 
-This means that the price has increased by 25% over the specified time frame.
+This means that the price increased by 25% over the specified time frame.
 
+**Another Example**
+
+> Suppose the current price of a stock is $80, and the price 5 periods ago was $100. Calculate the ROC over these 5 periods
+
+In this example, we have the following values given to us:
+
+- current price is $80
+- previous price is $100
+
+To calculate the ROC over the 5 periods, we simply need to repeat what we did in the previous example; we will enter the values for the current and previous prices into our ROC formula:
+
+```math
+ROC = \dfrac {80 - 100}{100} \times 100\%\\  
+= \dfrac {-20}{100} \times 100\%\\  
+= -0.2 \times 100\%\\  
+= -20\%
+```
+
+
+
+The ROC formula allows traders to quantify the percentage change in price, providing a standardized measure of price momentum. By comparing ROC values across different time periods or assets, traders can identify relative strengths or weaknesses in price movements and make informed trading decisions based on the observed rate of change.
+
+## Interpreting the ROC Indicator
+
+If our previous calculation had a higher previous price Understanding the underlying market dynamics requires an understanding of how to interpret both positive and negative values of the rate of change (ROC) indicator.
