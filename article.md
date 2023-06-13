@@ -100,3 +100,10 @@ On the other hand, extremely negative ROC values signify a significant downward 
 
 ### Crossovers
 
+Another important consideration when interpreting the ROC indicator is crossovers. The ROC indicator has overbouht and oversold levels that act as threshold levels on the indicator chart.
+
+When the ROC crosses above the overbought threshold, it signals that very soon, there might be a change in momentum from bearish to bullish. Traders can use this as an opportunity to open a long position.
+
+A bearish crossover, on the other hand, occurs when the ROC crosses below the oversold line, indicating that a potential change in momentum from bullish to bearish is imminent. This can be interpreted as a sell signal, indicating that it is time to think about going short or closing out long positions.
+
+Traders often combine extremes and crossovers to check if their trading decisions are valid. For example, if the ROC reaches an extremely positive value and forms a bullish crossover at the same time, it reinforces the bullish signal and increases confidence in potential buying opportunities. However, it is important to consider other technical indicators, market conditions and general trend analysis to avoid relying solely on ROC signals.
