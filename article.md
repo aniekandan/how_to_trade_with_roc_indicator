@@ -1,6 +1,6 @@
 # How to trade with the ROC indicator
 
-![featured article image trading UI with achart and indicator](https://raw.githubusercontent.com/aniekandan/how_to_trade_with_roc_indicator/main/ROC%20featured%20image.jpg))
+![featured article image trading UI with achart and indicator](https://raw.githubusercontent.com/aniekandan/how_to_trade_with_roc_indicator/main/ROC%20featured%20image.jpg)
 
 Technical analysis is a widely embraced approach to studying trading that assists in forecasting future price movements. It examines historical market data, such as previous price fluctuations and trading volume, to deduce potential future outcomes. Practitioners of technical analysis hold the belief that analyzing past patterns and trends can provide valuable insights into future market dynamics. 
 
