@@ -25,7 +25,9 @@ The calculated value can either be positive or negative:
 
 The calculation behind the formula for ROc is rather simple. The previous price must be subtracted from the current price, and the difference must then be divided by the previous price. the final ratio must then be multiplied by 100 to make it a percent. The formula can be written as follows:
 
-$\dfrac{price_previous - price_current}{price_previous} \times 100$
+```math
+\dfrac{price_{previous} - price_{current}}{price_{previous}} \times 100\%
+```
 
 
 
