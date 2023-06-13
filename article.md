@@ -78,13 +78,25 @@ The ROC formula allows traders to quantify the percentage change in price, provi
 
 ## Interpreting the ROC Indicator
 
-In order to understand the underlying market dynamics, we need to first understand how to interpret both positive and negative values of the rate of change (ROC) indicator. The positive/negative values of the ROC tell us which direction the price is moving.
+In order to understand the underlying market dynamics, we need to first understand how to interpret the values of the ROC indicator.
+
+### Positive/Negative values
+
+The positive/negative values of the ROC tell us which direction the price is moving.
 
 When the ROC is positive, it indicates that the current price is higher than the previous price. This suggests an upward momentum in the market. A positive ROC value suggests that prices have increased during the specified period. Traders often interpret a consistently positive ROC as a bullish signal, indicating a potential buying opportunity.
 
 Conversely, when the ROC is negative, it implies that the previous price fell to the value we now have as the current price. A negative ROC value suggests that prices have decreased during the specified period. This is usually taken as a bearish signal, indicating a possible selling opportunity.
 
+### Size/Magnitude of the ROC values
+
 In addition to understanding the direction of price movement, the size of the ROC value can also tell us how large the price movement was. When the ROC has a large positive or negative value, traders view this as a strong bullish or bearish price movement, and a more significant price momentum. Such large values can act as valuable overbought or oversold indicators, and can be used to inform the trader that there will soon be a reversal in the direction of the market. 
 
 However, it's important to consider the context of the specific market and use the ROC indicator in conjunction with other technical analysis tools to confirm signals and avoid false or misleading interpretations.
+
+Extreme positive or negative ROC values indicate substantial price movements. When the ROC reaches an extremely positive value, it suggests that the price has experienced a significant upward surge, possibly signaling an overbought condition in the market.
+
+On the other hand, extremely negative ROC values signify a significant downward movement and may suggest an oversold condition. Traders frequently use extreme values to spot opportunities for reversal or continuation patterns and view them as potential turning points in price trends.
+
+### Crossovers
 
