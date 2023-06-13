@@ -48,8 +48,7 @@ ROC = \dfrac {50 - 40}{40} \times 100\%\\
 = 25\%
 ```
 
+We first subtracted $40 from $50, resulting in a difference of $10. Then, we divided this difference by the previous price of $40 and multiplied by 100 to give an ROC value of 25%. 
 
-
-you would subtract $40 from $50, resulting in a difference of $10. Dividing this difference by the previous price of $40 and multiplying by 100 gives you a ROC value of 25%. This means that the price has increased by 25% over the specified time frame.
-```
+This means that the price has increased by 25% over the specified time frame.
 
